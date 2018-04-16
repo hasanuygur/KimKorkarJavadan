@@ -34,8 +34,8 @@ public static void main(String[] args) {
        System.out.println(floatSayi);
        System.out.println("floatSayi =" + floatSayi);
        System.out.println('e');
-       System.out.println("isin :" + isim);
+       System.out.println("isim :" + isim);
        System.out.println("yil 2010 :" + yanlisMi);
-       System.out.println("yil 2009 : " + dogruMu);
+       System.out.println("yil 2009 :" + dogruMu);
      
     }
