@@ -53,6 +53,7 @@ public static void main(String[] args) {
        float negY = -Y;
        //ek2: toplamlarını buldum
        System.out.println("Toplam =" + (negX  + negY));
+       System.out.println("negX =" +negX + ", negY =" + negY);
        System.out.println(negX);
        System.out.println(negY);
        
