@@ -1,0 +1,24 @@
+public static void main(String[] args) {
+        
+        Scanner tara = new Scanner(System.in);
+        int vize , finall;
+        double ortalama;
+        //bazi karışıklıklara neden olmamak için final yerine finall kullanıldı
+        //final deyiminin başka kullanım alanlari vardır.
+        
+        System.out.println("vize notunuzu giriniz");
+        vize = tara.nextInt();
+        
+        System.out.println("finall notunuzu giriniz");
+        finall = tara.nextInt();
+        
+        ortalama = vize*0.4 + finall*0.6;
+        System.out.println("ortalama =" + ortalama);
+        
+        if(ortalama >= 50){
+            System.out.println("öğrenci geçti.");
+        }
+        else 
+            System.out.println("öğrenci dersten kaldi");
+        
+        }
