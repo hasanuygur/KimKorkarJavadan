@@ -17,5 +17,7 @@ public class Fenerbahce {
         System.out.println("futbolcunun ismi :" + kaleci.ismi);
         System.out.println("futbolcunun yaşı :" + kaleci.yasi);
         
+        //ek1: programı burda çalıştırıyorum.
+        
     }
 }
