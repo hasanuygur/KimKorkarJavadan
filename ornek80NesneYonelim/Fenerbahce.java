@@ -1,3 +1,6 @@
+package nesneyonelim;
+
+
 public class Fenerbahce {
     
     public static void main (String[] args){
